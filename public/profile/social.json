@@ -1,0 +1,16 @@
+{
+    "social": [
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/in/laura-moralez-842008199/"
+      },
+      {
+        "network": "github",
+        "href": "https://github.com/emoralez19"
+      },
+        {
+            "network" : "email",
+            "href": "mailto:elizabeth.moralez2003@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+  "experiences": [
+    {
+      "title": "Producer/Game Observer",
+      "subtitle": "St. Mary's University Esports",
+      "workType": "Part Time",
+      "workDescription": [
+        "Collaborate with other team members to ensure a smooth run of \nshow for live broadcasts",
+        "Assist in various areas of the broadcast operation by assisting with the set up and \nbreakdown of equipment",
+        "Learn how to operate various positions while working in a fast-paced environment"
+      ],
+      "dateText": "08/2022 – Present"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "subtitle": "USAA",
+      "workType": "Full Time",
+      "workDescription": [
+        "Assist the Member Innovation team with designing, implementing, and testing new features for the /nUSAA Labs website utilizing JavaScripts, React.js, Squirrel SQL, Postman, Git, and Agile development",
+        "Maintain the database utilized for recording member information across different products and services",
+        "Fix bugs that are found throughout the production and development process"
+      ],
+      "dateText": "05/2023 – 08/2023"
+    },
+    {
+      "title": "Executive Producer",
+      "subtitle": "St. Mary's University",
+      "workType": "Freelance",
+      "workDescription": [
+        "Produced live-stream broadcast for St. Mary's University Law School commencement to an audience of spectators /n and remote viewers",
+        "Collaborated with technical director and broadcast engineer to execute the live-streamed show according to the /n run of show and university communication department",
+        "Utilized vMix to incorporate commencement graphics, overlays, and multiple camera views"
+      ],
+      "dateText": "05/2023 – 08/2023"
+    },
+    {
+      "title": "Tech Assistant",
+      "subtitle": "St. Mary's University SET Programming Camp",
+      "workType": "Full Time",
+      "workDescription": [
+        "Assisted university SET professors with the teaching of foundational technology knowledge",
+        "Mentored students individually with programming projects using Java, Game Maker, and Python",
+        "Led the students on tours of the St. Mary's campus showcasing the programs, buildings, and history as well /n as providing insight about student life on campus in order to develop pipeline interest "
+      ],
+      "dateText": "06/2022 – 07/2022"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "education":[
+      {
+        "title": "August 2021 - May 2025",
+        "cardTitle": "Bachelors of Arts, Computer Science",
+        "cardSubtitle": "St. Mary's University, San Antonio",
+        "cardDetailedText": "GPA - 3.63"
+      },
+      {
+        "title": "August 2017 - May 2021",
+        "cardTitle": "High School Diploma",
+        "cardSubtitle": "Health Careers High School, San Antonio"
+      }
+    ]
+}
