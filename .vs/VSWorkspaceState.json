@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\public\\images\\about",
+    "\\public\\profile",
+    "\\src",
+    "\\src\\components\\projects"
   ],
-  "SelectedNode": "\\C:\\Users\\eliza\\Source\\Repos\\dev-portfolio",
+  "SelectedNode": "\\src\\App.css",
   "PreviewInSolutionExplorer": false
 }
