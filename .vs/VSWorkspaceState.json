@@ -2,11 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\public\\images\\about",
     "\\public\\profile",
-    "\\src",
-    "\\src\\components\\projects"
+    "\\src"
   ],
-  "SelectedNode": "\\src\\App.css",
+  "SelectedNode": "\\public\\profile\\experiences.json",
   "PreviewInSolutionExplorer": false
 }
